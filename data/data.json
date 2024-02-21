@@ -1,0 +1,21 @@
+[
+    {
+    "Name" : "Mercy Hospital",
+    "Patient Count" : "300",
+    "Location" : "Kottayom"
+    },
+
+    {
+        "Name" : "Caritas Hospital",
+        "Patient Count" : "800",
+        "Location" : "Kottayom"
+    },
+
+    {
+        "Name" : "Rajagiri Hospital",
+        "Patient Count" : "500",
+        "Location" : "Ernakulam"
+    }
+
+
+]
